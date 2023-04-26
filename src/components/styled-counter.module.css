@@ -26,9 +26,9 @@
 
 .increase,
 .decrease {
-  width: 15px;
+  width: 30px;
   transform: rotateZ(90deg);
-  height: 10px;
+  height: 40px;
   user-select: none;
   -webkit-user-select: none;
   -khtml-user-select: none;
